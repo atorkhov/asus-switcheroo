@@ -1,7 +1,7 @@
 %global module_name asus-switcheroo
 %global git_author awilliam
-%global git_date 20120105
-%global git_commit bf9951b
+%global git_date 20120119
+%global git_commit 6c7da8e
 %global quiet -q
 
 Name:           dkms-%{module_name}
